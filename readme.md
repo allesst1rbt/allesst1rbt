@@ -1,7 +1,7 @@
 ### Programo back-end, cozinho e tiro fotos por ai 📷📷
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=allesst1rbt&show_icons=true&theme=radical)
-
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=allesst1rbt&show_icons=true&hide_border=true&theme=monokai)&nbsp;&nbsp;
+![Carlos Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allesst  1rbt&layout=compact&langs_count=8&hide_border=true&theme=monokai)
 ### Tecnologias que uso no meu dia a dia 💻💻
 
 <div style="display: inline_block"><br/>
@@ -16,5 +16,4 @@
     <img aling="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=whitee"></br>
 
 </div></br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allesst1rbt&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulovictormourao&theme=monokai)
