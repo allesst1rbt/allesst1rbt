@@ -15,6 +15,7 @@
     <img aling="center" alt="lavarel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img aling="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=whitee"></br>
 
-</div></br>
+</div>
+</br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allesst1rbt&theme=monokai)
 
